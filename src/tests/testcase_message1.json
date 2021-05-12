@@ -1,0 +1,10 @@
+{
+  "system": {
+    "query": {
+      "form": {
+        "destination": "Holmen",
+        "hardware": "MSI 55BiC Motherboard"
+      }
+    }
+  }
+}
